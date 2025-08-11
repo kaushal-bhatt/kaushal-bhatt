@@ -133,7 +133,7 @@ I'm always interested in discussing new opportunities, innovative projects, and 
 <div align="center">
 
 📧 **Email**: kaushal8650@gmail.com  
-💼 **LinkedIn**: [Kaushal Bhatt](https://www.linkedin.com/in/kaushal-bhatt)  
+💼 **LinkedIn**: [Kaushal Bhatt](https://www.linkedin.com/in/kaushal-bhatt-5aa73511b/)  
 🌐 **Location**: India | Open to Global Opportunities
    **Phone**: +91 8126270902
 
