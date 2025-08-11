@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Kaushal Bhatt
 ### Senior Software Engineer | Cloud Architecture Specialist | Microservices Expert
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-bhatt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-bhatt-5aa73511b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushal8650@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushal-bhatt)
 
@@ -135,6 +135,7 @@ I'm always interested in discussing new opportunities, innovative projects, and 
 📧 **Email**: kaushal8650@gmail.com  
 💼 **LinkedIn**: [Kaushal Bhatt](https://www.linkedin.com/in/kaushal-bhatt)  
 🌐 **Location**: India | Open to Global Opportunities
+   **Phone**: +91 8126270902
 
 ---
 
