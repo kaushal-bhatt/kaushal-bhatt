@@ -104,7 +104,7 @@ graph LR
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-bhatt&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushal-bhatt&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
 
 </div>
 
