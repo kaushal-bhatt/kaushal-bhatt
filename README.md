@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushal8650@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushal-bhatt)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Software+Engineering+Excellence;Building+Scalable+Cloud-Native+Solutions;Passionate+About+Clean+Code+and+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=6%2B+Years+of+Software+Engineering+Excellence;Building+Scalable+Cloud-Native+Solutions;Passionate+About+Clean+Code+and+Architecture" alt="Typing SVG" />
 
 </div>
 
@@ -112,7 +112,7 @@ graph LR
 
 - 🎓 **B.Tech in Computer Science** (2015-2019)
 - ☕ **Oracle Certified Java SE 8 Programmer** (Trained)
-- ☁️ **Architecting on AWS** (AWS Training)
+- ☁️ **Architecting on AWS** (AWS Trained)
 - 🔄 **DevOps & CI/CD Foundations** (LinkedIn Learning)
 
 ## 🌟 What I'm Currently Working On
