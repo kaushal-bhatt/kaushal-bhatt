@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Senior Software Engineer with **5+ years of experience** in designing and implementing highly distributed, scalable cloud-based applications. Currently working at **Rockwallet**, where I'm architecting end-to-end microservices for crypto wallet platforms and leading blockchain integration initiatives.
+I'm a passionate Senior Software Engineer with **6+ years of experience** in designing and implementing highly distributed, scalable cloud-based applications. Currently working at **Rockwallet**, where I'm architecting end-to-end microservices for crypto wallet platforms and leading blockchain integration initiatives.
 
 My expertise lies in transforming complex business requirements into robust technical solutions, with a proven track record of improving system performance by up to **57%** and reducing processing times by **40%** through innovative automation and optimization strategies.
 
