@@ -19,15 +19,6 @@ I'm a passionate Senior Software Engineer with **6+ years of experience** in des
 
 My expertise lies in transforming complex business requirements into robust technical solutions, with a proven track record of improving system performance by up to **57%** and reducing processing times by **40%** through innovative automation and optimization strategies.
 
-## 💼 Professional Journey
-
-```mermaid
-graph LR
-    A[Lenskart<br/>2019-2022] --> B[Ibosstech Solutions<br/>2022-2023]
-    B --> C[EPAM Systems<br/>2024]
-    C --> D[Rockwallet<br/>Current]
-```
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
